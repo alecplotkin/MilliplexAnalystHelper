@@ -1,0 +1,7 @@
+Package: milliplex_analyst_helper
+Version: 0.1
+Date: 2021-06-03
+Title: Milliplex Analyst Helper
+Description: Functions to facilitate processing multiplex data using the Milliplex Analyst software.
+Author: Alec L Plotkin <alp.plotkin@gmail.com>
+Maintainer: Alec L Plotkin <alp.plotkin@gmail.com>
